@@ -1,0 +1,21 @@
+.navbar-brand {
+  padding-left: 30px;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.navbar-brand:hover,
+.nav-class:hover {
+  color: white;
+}
+
+.nav-class {
+  color: white !important;
+}
+
+.btn-danger {
+  margin-left: 40px;
+  margin-right: 30px;
+}
